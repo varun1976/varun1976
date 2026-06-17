@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Full Stack , Cloud & ML-based Applications<br>🏢 Incoming Intern at Visa Inc.<br>👯 I’m looking to collaborate on MERN + AWS Projects<br>🤝 I’m looking for help with Advanced System Design & Scalable Architectures<br>🌱 I’m currently learning High-Level Design & Cloud Optimization<br>💬 Ask me about MERN Stack, AWS, Machine Learning & DSA<br>⚡ Fun fact: I love turning ideas into real-world deployable systems
+🔭 I’m currently working on Full Stack , Cloud & ML-based Applications<br>🏢 Intern at Visa Inc.<br>👯 I’m looking to collaborate on MERN + AWS Projects<br>🤝 I’m looking for help with Advanced System Design & Scalable Architectures<br>🌱 I’m currently learning High-Level Design & Cloud Optimization<br>💬 Ask me about MERN Stack, AWS, Machine Learning & DSA<br>⚡ Fun fact: I love turning ideas into real-world deployable systems
 
 
 ## 🌐 Socials:
